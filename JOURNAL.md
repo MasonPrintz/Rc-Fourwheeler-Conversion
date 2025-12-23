@@ -1,4 +1,4 @@
-Please remeber while reading i Chose these parts months ago. but my parents told me i couldnt buy the parts do to how much money it is.
+
 
 And the source from all my findings was simply measuring and thinking about what i need than googling the item. than spending HOURS lol scrolling through different manufacturers and online markets reading reveiews and threads about that part.
 
