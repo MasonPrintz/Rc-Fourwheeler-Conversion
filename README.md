@@ -26,7 +26,7 @@ the step down converters will be used to drop the 12v four wheeler battery to 5v
 
 <img width="1182" height="228" alt="Screenshot 2025-12-10 162022" src="https://github.com/user-attachments/assets/ee77c428-09ea-41b7-a11c-12d1e72595d8" />
 
-and as for the remote i chose a flysky there a great mix if cheap but still high quality and it has 10 channels for communications reason. 
+and as for the remote i chose a flysky there a great mix if cheap but still high quality and it has 10 channels for communications reason. If you chose a cheaper remote they are very bad and have safety risks. and It would require very delicate and expensive components to make your own and managing radio waves is very hard i would have to make a receiver and transmittor.
 <img width="1182" height="221" alt="2" src="https://github.com/user-attachments/assets/6a0fe3f3-5489-4f8e-8ec2-c855af09a605" />
 
 spare motor drivers incase the esp32s and the ones that come with the actuators dont get along
