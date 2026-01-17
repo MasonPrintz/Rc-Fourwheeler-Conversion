@@ -1,5 +1,5 @@
 # Rc-Fourwheeler-Conversion
-A kit i made to Rc swap my old honda recon
+Please read this. Clearly my reveiwer note was not read. This is a kit to make a real full size fourwheeler remote controlled. A cheap ali express servo will not turn full sized tires, it requires way to much force. And the controller i chose is a very cheap one most crontollers go for hundreds of dollars.this one is low end while still being safe. And please actually pay attention and keep this in mind. i keep saying this is a full sized fourwheeler but everyone keeps thinking its some small scale toy. its a real fourwheeler with a actual engine. so no cheap ali express stuff will turn it.
 
 
 This will be a description of the parts i chose and why. and the general idea of how i plan to make this work.
